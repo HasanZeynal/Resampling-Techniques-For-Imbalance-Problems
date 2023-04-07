@@ -29,9 +29,10 @@ The projects include the following resampling techniques:
 * Combination of 2 sample methods:
   1. SMOTEENN
   2. SMOTETomek
-# Evaluation Metrics
-The projects use various evaluation metrics to assess the effectiveness of the resampling techniques, including:
 
+# Evaluation Metrics
+
+The projects use various evaluation metrics to assess the effectiveness of the resampling techniques, including:
 * Accuracy
 * Precision
 * Recall
