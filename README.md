@@ -21,7 +21,6 @@ The projects include the following resampling techniques:
 
 * Random oversampling
 * SMOTE (Synthetic Minority Over-sampling Technique)
-* * SMOTE
 * ADASYN (Adaptive Synthetic Sampling)
 * Random undersampling
 * Tomek links
