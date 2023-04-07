@@ -1,19 +1,17 @@
-Project Title
-1.Credit Fraut Detection
-2.Credit Risk Modelling
+# Project Titles
+1. Credit Fraut Detection
+2. Credit Risk Modelling
 
-Description
+# Description
 This projects aim to address the issue of class imbalance in machine learning by implementing and comparing different resampling techniques on imbalanced datasets. The projects include various algorithms for oversampling, undersampling, and combination of both, as well as cost-sensitive learning approaches. The effectiveness of the techniques is evaluated using appropriate performance metrics such as accuracy, precision, recall, and F1 score.
 
-Table of Contents
-Usage
-Resampling Techniques
-Evaluation Metrics
-Results
-Conclusion
-Acknowledgments
-Installation
-To use this project, you will need to install the necessary packages and libraries listed in the requirements.txt file.
+# Table of Contents
+* Usage
+* Resampling Techniques
+* Evaluation Metrics
+* Results
+* Conclusion
+* Acknowledgments
 
 # Usage
 The project includes sample datasets and Jupyter notebooks demonstrating how to implement the different resampling techniques and evaluate their effectiveness.
@@ -21,20 +19,20 @@ The project includes sample datasets and Jupyter notebooks demonstrating how to 
 # Resampling Techniques
 The projects include the following resampling techniques:
 
-Random oversampling
-SMOTE (Synthetic Minority Over-sampling Technique)
-ADASYN (Adaptive Synthetic Sampling)
-Random undersampling
-Tomek links
-Edited nearest neighbor
-CNN(Condensed Nearest Neighbours)
+* Random oversampling
+* SMOTE (Synthetic Minority Over-sampling Technique)
+* ADASYN (Adaptive Synthetic Sampling)
+* Random undersampling
+* Tomek links
+* Edited nearest neighbor
+* CNN(Condensed Nearest Neighbours)
 Evaluation Metrics
 # The projects use various evaluation metrics to assess the effectiveness of the resampling techniques, including:
 
-Accuracy
-Precision
-Recall
-F1 score
+* Accuracy
+*Precision
+* Recall
+* F1 score
 # Results
 The results of the projects are presented and discussed in the Results section of the Jupyter notebooks.
 
