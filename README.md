@@ -21,16 +21,20 @@ The projects include the following resampling techniques:
 
 * Random oversampling
 * SMOTE (Synthetic Minority Over-sampling Technique)
+* * SMOTE
 * ADASYN (Adaptive Synthetic Sampling)
 * Random undersampling
 * Tomek links
 * Edited nearest neighbor
 * CNN(Condensed Nearest Neighbours)
+* Combination of 2 sample methods:
+  1. SMOTEENN
+  2. SMOTETomek
 Evaluation Metrics
 # The projects use various evaluation metrics to assess the effectiveness of the resampling techniques, including:
 
 * Accuracy
-*Precision
+* Precision
 * Recall
 * F1 score
 # Results
