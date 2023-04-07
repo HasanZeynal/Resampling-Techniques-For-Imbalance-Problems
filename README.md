@@ -38,7 +38,7 @@ The projects use various evaluation metrics to assess the effectiveness of the r
 * Recall
 * F1 score
 # Results
-The results of the projects are presented and discussed in the Results section of the Jupyter notebooks.
+The results of the projects were presented in the the Jupyter notebooks but when i push the project to the GitHub,the error is occured:Invalid Notebook because of the Memory Overflow,so I had to clear all output to push the project
 
-Conclusion
+# Conclusion
 The project provides insights into the effectiveness of different resampling techniques for addressing class imbalance in machine learning and highlights the importance of carefully evaluating the performance of these techniques on specific datasets.
